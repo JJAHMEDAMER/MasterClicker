@@ -1,3 +1,7 @@
 tempCodeRunnerFile.py
 venv
 .vscode
+
+build
+dist
+*.spec
